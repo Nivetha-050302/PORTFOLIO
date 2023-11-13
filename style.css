@@ -110,8 +110,8 @@ header .user img {
     height: 18rem;
     aspect-ratio: none;
     object-fit: cover;
-    border-radius: 450%;
-    margin-bottom: 1rem;
+    border: radius 48px;
+    margin-bottom: 10rem;
     border: .7rem solid var(--yellow);
 }
 
